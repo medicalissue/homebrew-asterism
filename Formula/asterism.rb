@@ -17,7 +17,7 @@ class Asterism < Formula
   desc "Run your AI agents 24/7 on hardware you already own"
   homepage "https://asterism.run"
   license any_of: ["MIT", "Apache-2.0"]
-  head "https://github.com/medicalissue/asterism.git", branch: "master"
+  head "https://github.com/medicalissue/asterism.git", branch: "main"
 
   # TODO: first tagged release. When v0.1.0 is cut, add above the `head` line:
   #
